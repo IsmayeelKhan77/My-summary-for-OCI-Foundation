@@ -14,7 +14,6 @@ I wrote them in **simple human English** with emojis ✨ to make revision fun an
 - [💰 Pricing & SLA](05-pricing-sla.md)  
 - [🏗️ Architecture](06-architecture.md)  
 - [📝 Cheatsheets](cheatsheet/)  
-- [🔗 Resources](resources.md)  
 
 ---
 
