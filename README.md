@@ -2,7 +2,7 @@
 
 This repo contains my **easy notes** for the Oracle Cloud Infrastructure (OCI) Foundations Associate (1Z0-1085) exam.  
 
-I wrote them in **simple human English** with emojis ✨ to make revision fun and easy.  
+  
 
 ---
 
