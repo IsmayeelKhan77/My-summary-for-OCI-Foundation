@@ -22,4 +22,4 @@ This repo contains my **easy notes** for the Oracle Cloud Infrastructure (OCI) F
 - To revise quickly 
 - To show my learning journey on GitHub  
 
-✨ Feel free to use these notes if you’re also preparing for the exam!  
+✨ Feel free to use these notes if you’re also preparing for the exam!
